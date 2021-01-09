@@ -1,4 +1,4 @@
-#Welcom to Jazyes's Github Repo
+#Welcom to Jayes's Github Repo
 #image colorization using python
 import tensorflow as tf
 import keras
